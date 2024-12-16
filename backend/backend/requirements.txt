@@ -1,0 +1,16 @@
+fastapi[all]
+uvicorn
+transformers
+pydantic
+sqlalchemy
+python-dotenv
+aiofiles
+motor
+python-jose
+passlib
+redis
+torch
+torchvision
+icecream
+einops
+bcrypt

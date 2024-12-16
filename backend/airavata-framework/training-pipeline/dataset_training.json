@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/home/raw/Downloads/9.jpeg",  
+        "query": "What are the key features of this military vehicle?",
+        "response": "This M1 Abrams tank displays several notable features: 1) A reinforced frontal armor plate, 2) The characteristic angular turret design"
+    },
+    {
+        "image": null,
+        "query": "Describe maintenance procedures for tanks",
+        "response": "Tank maintenance involves regular checks of: 1) Track tension, 2) Engine oil levels..."
+    },
+    {
+        "image": "/path/to/image2.jpg",
+        "query": null,
+        "response": "A modern main battle tank with composite armor and thermal imaging systems"
+    },
+    {
+        "image": "/home/raw/Downloads/2.jpeg",
+        "query": "Compare this to modern tanks",
+        "response": "This appears to be an older T-72 tank. Compared to modern tanks, it has less sophisticated armor protection..."
+    }
+]

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.env
+models/*.pt
+*.png
+images/
+videos/
+pdfs/
+*.pdf
+*.jpeg
+*.mp4
+*.mkv
